@@ -1,0 +1,31 @@
+id: P9EA16235
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA21743
+  instance_id: http://purl.bdrc.io/resource/IE21743
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གནའ་གཏམ་མཐོང་བ་དགའ་སྐྱེད།
+  alt_title:
+    zh-latn-wadegile:
+    - ku shih chi
+  author: http://purl.bdrc.io/resource/P6443
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    0ac719d2649c40edba99e280d41db4e7:
+      title: པོད ༡་གནའ་གཏམ་མཐོང་བ་དགའ་སྐྱེད
+      volume_number: 1
+      base_file: UT21743_5671_0000.txt
+      reference: http://purl.bdrc.io/resource/VL721DC442229C5937
+      image_group: '5671'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W21743
+  - http://purl.bdrc.io/resource/MW21743
+  ocr_software: Namsel
+created_at: '2021-12-22T11:07:32.332704'
+last_modified_at: '2021-12-22T11:07:32.332711'
